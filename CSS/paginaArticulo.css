@@ -1,0 +1,163 @@
+.articulo{
+width: 100%;
+height: 100%;
+
+
+}
+.contenedorDeImagenes{
+width: 50%;
+background-color:white;
+text-align: center;
+
+float: left;
+
+}
+
+.descripcionArticulo{
+    
+    width: 50%;
+    height: 100%;
+    background-color: white;
+   float: right; 
+}
+
+.imagenGrandeDeArticulo{
+    margin: auto;
+    width: 95%;  
+    text-align: center;
+    display: inline-block;
+}
+
+.slideImagenes{
+    width: 100%;
+    background-color: white;
+    margin: auto;
+}
+
+.imagenPequeDelArticulo{
+    width: 23%;
+    height: 30%;
+    margin-top: 10px;
+    margin-left:2px ;
+    display: inline-block;
+}
+
+
+
+.precioAnterior{
+    font-family: 'Syncopate', sans-serif;
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    text-decoration: line-through;
+}
+
+.precio{
+    font-family: 'Syncopate', sans-serif;
+    font-size: 30px;
+    color: red;
+    font-weight: bold;
+
+}
+
+ul{
+    list-style: none;
+    margin: auto;    
+}
+
+label{
+    font-size: 20px;
+    
+}
+
+.campoDesplegable{
+    font-size: 15px;
+    background-color: rgba(206, 201, 201, 0.219);
+    width: 90%;
+    height: 30px;
+}
+
+.cantidadArticulo{
+    margin: auto;
+    width: 60px;
+    height: 40px;
+    font-size: 15px;
+    display: inline-block;
+    text-align: center;
+}
+
+.divEnForm{
+    text-align: center;
+    padding: 15px;    
+    margin: auto;
+    width: 100%;
+    vertical-align: center;
+    
+}
+
+.btnCarrito{
+    margin-left: 50px;
+    width: 30%;
+    padding: 20px;  
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+    display: inline-block;
+    
+}
+
+.btnCarrito:hover{            
+    background-color: white;
+    color: black;
+    transition: 0.50s;
+    font-weight: bold;
+
+}
+
+.contenedorTablas{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+table{
+  width: 90%; 
+  
+}
+
+.tituloTabla{
+    width: 20%;
+    background-color: rgba(185, 181, 181, 0.623);
+    font-weight: bold;
+    text-decoration: underline;
+    
+    
+}
+
+.descripcionTabla{
+    width: 90%;
+}
+
+td{
+    padding: 5px;
+}
+
+.divDeArticulosRecomendados{
+
+
+}
+
+
+
+
+
+
+
+
+
